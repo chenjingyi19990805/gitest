@@ -4,7 +4,7 @@
 
 # _headline_
 
-[點我啦](https://www.google.com.tw/)
+[點擊我](https://www.google.com.tw/)
 
 ## paragraph 1
 <p>Rudy Maxa: Like that _intrepid__ group of American tourists, most of us choose to travel because we want to. We’ve come a long way from times when we had to __wander____ through different lands without homes living as __nomads_. Or have we? Even today when we can easily interact with someone by picking up a phone or logging onto a computer, some people still make their living constantly traveling from place to place. Their only addresses exist as ___email__ or _cellphone numbers___. Welcome to the world of the ___high-tech nomads____. Writer Joel Garreau investigated this unique breed of traveler for The Washington Post, and he sat down with us recently to tell us what he learned. 
@@ -29,6 +29,7 @@
 1. 今天天氣
 1. 今天上課
 
+_下面這一段是程式碼哦，不要誤會我_（你看我的內文就知道了！）
     <!DOCTYPE html>
     <html lang="en">
     <head>
